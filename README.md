@@ -461,6 +461,3 @@ This attack failed due to attacker incompetence, but the technique itself is sol
 
 ---
 
-**Analysis Date:** May 2, 2026  
-**Analyst:** Security Team  
-**Status:** Complete
